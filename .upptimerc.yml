@@ -31,6 +31,7 @@ status-website:
   logoUrl: https://narwhal.cool/assets/images/image01.jpg?v=fe3acb59
   name: Narwhal Status
   introTitle: "The Status Page for Narwhal Ventures"
+  theme: "ocean"
   navbar:
     - title: Status
       href: /
