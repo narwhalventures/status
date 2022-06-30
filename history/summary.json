@@ -4,18 +4,20 @@
     "url": "https://narwhal.cool",
     "icon": "https://favicons.githubusercontent.com/narwhal.cool",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1911,
-    "timeDay": 5246,
-    "timeWeek": 2730,
-    "timeMonth": 1911,
-    "timeYear": 1911,
-    "dailyMinutesDown": {}
+    "time": 1782,
+    "timeDay": 2740,
+    "timeWeek": 2418,
+    "timeMonth": 1782,
+    "timeYear": 1782,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "Narwhal.gifts",
@@ -40,18 +42,20 @@
     "url": "https://haste.narwhal.cool",
     "icon": "https://favicons.githubusercontent.com/haste.narwhal.cool",
     "slug": "hastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1575,
-    "timeDay": 253,
-    "timeWeek": 2252,
-    "timeMonth": 1575,
-    "timeYear": 1575,
-    "dailyMinutesDown": {}
+    "time": 1461,
+    "timeDay": 170,
+    "timeWeek": 1981,
+    "timeMonth": 1461,
+    "timeYear": 1461,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "Debug Reports",
