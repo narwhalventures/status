@@ -26,19 +26,19 @@
     "url": "https://narwhal.gifts",
     "icon": "https://favicons.githubusercontent.com/narwhal.gifts",
     "slug": "narwhal-gifts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1276,
-    "timeDay": 729,
-    "timeWeek": 1378,
-    "timeMonth": 1191,
-    "timeYear": 1276,
+    "time": 1273,
+    "timeDay": 891,
+    "timeWeek": 1338,
+    "timeMonth": 1186,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2022-08-29": 0
+      "2022-08-29": 5
     }
   },
   {
