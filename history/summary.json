@@ -26,7 +26,7 @@
     "url": "https://narwhal.gifts",
     "icon": "https://favicons.githubusercontent.com/narwhal.gifts",
     "slug": "narwhal-gifts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1378,
     "timeMonth": 1191,
     "timeYear": 1276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   },
   {
     "name": "Hastebin",
