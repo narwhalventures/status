@@ -4,11 +4,11 @@
     "url": "https://narwhal.cool",
     "icon": "https://icons.duckduckgo.com/ip3/narwhal.cool.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1154,
     "timeDay": 699,
@@ -16,7 +16,7 @@
     "timeMonth": 661,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2022-11-30": 30,
+      "2022-11-30": 25,
       "2022-08-19": 4,
       "2022-07-09": 17,
       "2022-06-30": 48
@@ -39,7 +39,7 @@
     "timeMonth": 522,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2022-11-30": 1388,
+      "2022-11-30": 1393,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
